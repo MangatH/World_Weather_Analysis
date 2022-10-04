@@ -2,7 +2,7 @@
 
 ## Purpose
 
-PLANMYTRIP is a top travel technology company that specializes in internet-related services in the hotel and lodging industry. Jack is the head of analysis for the user interface team. He'requires assistance in collecting and presenting data for customers via the search page, which they will then filter based on their preferred travel criteria in order to find their ideal hotel, anywhere in the world.
+PLANMYTRIP is a top travel technology company that specializes in internet-related services in the hotel and lodging industry. Jack is the head of analysis for the user interface team. He requires assistance in collecting and presenting data for customers via the search page, which they will then filter based on their preferred travel criteria in order to find their ideal hotel, anywhere in the world.
 
 ## Objective
 
